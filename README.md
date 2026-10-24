@@ -3,7 +3,7 @@
 A toy reimplementation of the core experiment in *Matryoshka LM Suites* (Godey & Artzi, 2026, [arXiv 2608.09703](https://arxiv.org/abs/2608.09703)):
 one transformer with three exit points (2 layers @64 → +2 @128 → +2 @256), trained once, against three separate models of matched parameter count.
 
-Written for the Weizmann course *Active LLM Paper Reading*. Write-up: ([course site post][(https://active-ai-reading.github.io/)](https://active-ai-reading.github.io/posts/2026/matryoshka-toy/)).
+Written for the Weizmann course *Active LLM Paper Reading*. Write-up: [course site post](https://active-ai-reading.github.io/posts/2026/matryoshka-toy/).
 
 ## Run
 
